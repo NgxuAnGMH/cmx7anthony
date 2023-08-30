@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b31374f6","path":"/tag/dma/","title":"标签: DMA","lang":"zh-CN","frontmatter":{"title":"标签: DMA","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"DMA","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
